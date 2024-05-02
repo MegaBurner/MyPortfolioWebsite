@@ -1,0 +1,50 @@
+# General entries
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.bak
+*.tmp
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# Build outputs and temporary directories
+build/
+dist/
+out/
+target/
+temp/
+tmp/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment-specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Frontend-specific entries
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Backend-specific entries
+backend/.mvn/
+backend/.apt_generated/
+backend/.apt_generated_tests/
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings/
+backend/target/
+backend/.vscode/
+
