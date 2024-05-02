@@ -42,10 +42,15 @@ Wien).
 To run my portfolio website locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/melihcosgun/portfolio-website.git
+  ```
+   git clone https://github.com/MegaBurner/MyPortfolioWebsite.git
+  ```
 
 2. Navigate to the project directory:
-   cd portfolio-website
+
+  ```
+  cd portfolio-website
+  ```
 
 3. Install the required dependencies:
 
