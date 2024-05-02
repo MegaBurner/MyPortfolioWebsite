@@ -1,0 +1,40 @@
+header {
+  padding: 20px 40px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-section h1 {
+  font-size: 24px;
+  margin-bottom: 5px;
+  color: #f4f4f4;
+}
+
+.left-section p {
+  font-size: 16px;
+  margin-top: -2px;
+  color: #a0a0a0;
+}
+
+.right-section a {
+  margin-left: 10px;
+  padding: 8px 16px;
+  color: #f4f4f4;
+  text-decoration: none;
+  border-radius: 16px;
+}
+
+.right-section a:hover {
+  background-color: rgba(34, 34, 34, 0.8);
+}
+
+.arrow {
+  display: inline-block;
+  margin-left: 1px;
+  scale: 85%;
+}
+
