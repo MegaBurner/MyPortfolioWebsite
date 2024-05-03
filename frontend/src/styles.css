@@ -2,7 +2,12 @@
 
 body {
   font-family: Arial, sans-serif;
+  color: #f4f4f4;;
   margin: 0;
   padding: 0;
   background-color: #111111;
+}
+
+a {
+  color: #f4f4f4;
 }
