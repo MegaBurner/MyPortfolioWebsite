@@ -8,6 +8,10 @@ header {
   align-items: center;
 }
 
+.left-section {
+  padding: 0 16px;
+}
+
 .left-section h1 {
   font-size: 24px;
   margin-bottom: 5px;
